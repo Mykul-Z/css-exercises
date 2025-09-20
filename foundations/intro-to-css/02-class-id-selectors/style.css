@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.firstClass {
+    background-color: #f0a5c6;
+    font-size: 18px;
+}
+
+.secondClass {
+    font-size: 24px;
+}
+
+#firstUnique {
+    color: blue;
+    font-size: 32px;
+}
+
+#secondUnique {
+    background-color: #3df029;
+    font-size: 24px;
+    font-weight: bold;
+}
